@@ -11,13 +11,19 @@ import java.util.ArrayList;
 import java.util.List;
 
 //不同表的通用查询方法
-
 public class QueryForDifferentTable {
+    //测试结果
+    public static void main(String[] args)throws Exception{
+        getInstance();
+        getForListInstance();
+    }
+    //填入SQL语句
     public static void getForListInstance()throws Exception{
         String sql="select ID,Password from information where ID=?";
         List<Information>list =getForList(Information.class,sql,"吴天雄1");
         list.forEach(System.out::println);
     }
+    //查询操作
     public static <T> List<T> getForList(Class<T> clazz, String SQL, Object... args)throws Exception{
         //连接数据库，预处理SQL语句
         Connection conn= JDBCTools.getConnection();
@@ -49,11 +55,7 @@ public class QueryForDifferentTable {
         JDBCTools.CloseConnection(conn,ps);
         return list;
     }
-    //测试结果
-    public static void main(String[] args)throws Exception{
-        getInstance();
-        getForListInstance();
-    }
+    //填入SQL语句
     public static void getInstance()throws Exception{
         String sql="select ID,Password from information where ID=?";
         String sql1="select Name,Password from people where Name=?";
@@ -62,6 +64,7 @@ public class QueryForDifferentTable {
         People people=getInstance(People.class,sql1,"handsome");
         System.out.println(people);
     }
+    //查询操作
     public static <T> T getInstance(Class<T> clazz, String SQL, Object... args)throws Exception{
         //连接数据库，预处理SQL语句
         Connection conn= JDBCTools.getConnection();
