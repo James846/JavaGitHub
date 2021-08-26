@@ -1,0 +1,19 @@
+获取ssh密匙
+ssh-keygen -t rsa -C
+"邮箱"
+ssh -T git@github.com
+git config --global user.name "用户名"
+git config --global user.email "邮箱"
+定位需要放置文件的位置
+git clone ........
+
+1.增加库中的文件
+git add 文件
+git commit -m "注释"
+git push origin master
+
+2.删除库中的文件
+git pull origin master
+git rm -r --cached 文件名
+git commit -m "删除"
+git push -u origin master
