@@ -1,3 +1,5 @@
+package Model;
+
 public class Students {
     int FlowID,Type,Grade;
     String IDCard,ExamCard,StudentName,Location;
@@ -45,6 +47,6 @@ public class Students {
         return Location;
     }
     public String toString(){
-        return "Students ID:"+FlowID+" Type: "+Type+" Grade: "+Grade+" IDCard: "+IDCard+" ExamCard: "+ExamCard+" StudentsName: "+StudentName+" Location: "+Location;
+        return "Model.Students ID:"+FlowID+" Type: "+Type+" Grade: "+Grade+" IDCard: "+IDCard+" ExamCard: "+ExamCard+" StudentsName: "+StudentName+" Location: "+Location;
     }
 }

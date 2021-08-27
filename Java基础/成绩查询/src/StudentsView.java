@@ -1,3 +1,8 @@
+import Controller.AddStudents;
+import Controller.DeleteStudents;
+import Controller.QueryStudents;
+import Model.Students;
+
 import java.util.List;
 import java.util.Scanner;
 
@@ -27,7 +32,7 @@ public class StudentsView {
         String SQLdel="delete from examstudent where FlowID=?";
         DeleteStudents.DeleteForStudents(SQLdel,deleteID);
         String sqlquery="select FlowID,Type,IDCard,ExamCard,StudentName,Location,Grade from examstudent where FlowID=?";
-        List<Students> students =QueryStudents.getForList(Students.class,sqlquery,queryID);
+        List<Students> students = QueryStudents.getForList(Students.class,sqlquery,queryID);
         students.forEach(System.out::println);
     }
 }
