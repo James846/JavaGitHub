@@ -10,7 +10,7 @@ public class AddStudents {
         for(int i=0;i<args.length;i++){
             ps.setObject(i+1,args[i]);
         }
-        if(ps.execute()){
+        if(ps.executeUpdate()>0){
             System.out.println("成功添加用户");
         }
         else{
