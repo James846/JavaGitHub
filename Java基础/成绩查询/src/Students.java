@@ -1,6 +1,7 @@
 public class Students {
     int FlowID,Type,Grade;
     String IDCard,ExamCard,StudentName,Location;
+
     public void setFlowID(int a){
         this.FlowID=a;
     }
