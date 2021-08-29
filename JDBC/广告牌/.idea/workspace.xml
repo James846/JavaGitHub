@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7141996-4567-4bc8-aca9-a755e88a9425" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_37_bin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/SQLlibs/mysql-connector-java-8.0.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/src/AddStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/src/DeleteStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/src/QueryStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/src/Students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/ADBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/ADBoard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/AddAD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/AddAD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/Advertisement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/Advertisement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/ConnectDatabase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/ConnectDatabase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/DeleteAD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/DeleteAD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/Encode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/Encode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/HandleLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/HandleLogin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/HandleRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/HandleRegister.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/QueryAllUserAD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/QueryAllUserAD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/QueryOneUserAD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/QueryOneUserAD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/Model/Register.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/ADBoardView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/ADBoardView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/AddADView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/AddADView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/DeleteADView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/DeleteADView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/HandleADBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/HandleADBoard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/HandleAddAD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/HandleAddAD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/HandleDeleteAD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/HandleDeleteAD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/HandleQueryAllUserAD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/HandleQueryAllUserAD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/HandleQueryOneUserAD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/HandleQueryOneUserAD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/IntegrationView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/IntegrationView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/LoginView$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/LoginView$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/LoginView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/LoginView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/QueryAllUserADView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/QueryAllUserADView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/QueryOneUserADView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/QueryOneUserADView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/RegisterView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/View/RegisterView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/广告牌/ADboard/gui/AppWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/广告牌/ADboard/gui/AppWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登录系统/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../登录系统/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +22,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AppWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ADboard.gui.AppWindow" />
+      <module name="广告牌" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ADboard.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppWindow" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
