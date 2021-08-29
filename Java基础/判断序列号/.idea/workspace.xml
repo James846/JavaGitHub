@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fdbf67b-1907-4c9e-8ca4-410fe7cf5d3e" name="Default Changelist" comment="Java基础">
+      <change afterPath="$PROJECT_DIR$/out/production/判断序列号/Homework.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/判断序列号/Police.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/判断序列号/Win$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/判断序列号/Win.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Police.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Win.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射机制/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射机制/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射机制/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射机制/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射机制/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射机制/out/production/反射机制/Reflection/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射机制/out/production/反射机制/Reflection/TargetObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射机制/src/Reflection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../反射机制/src/Reflection/TargetObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/.idea/libraries/SQLlibs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/.idea/libraries/mysql_connector_java_8_0_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/.idea/libraries/mysql_connector_java_8_0_261.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/SQLlibs/mysql-connector-java-8.0.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/out/production/成绩查询/Controller/AddStudents.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/out/production/成绩查询/Controller/DeleteStudents.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/out/production/成绩查询/Controller/QueryStudents.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/out/production/成绩查询/IP.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/out/production/成绩查询/JDBCTools/JDBCTools.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/out/production/成绩查询/Model/Students.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/out/production/成绩查询/StudentsView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/out/production/成绩查询1/Controller/AddStudents.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/out/production/成绩查询1/Controller/DeleteStudents.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/out/production/成绩查询1/Controller/QueryStudents.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/out/production/成绩查询1/JDBCTools/JDBCTools.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/out/production/成绩查询1/Model/Students.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/out/production/成绩查询1/StudentsView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/src/Controller/AddStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/src/Controller/DeleteStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/src/Controller/QueryStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/src/IP.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/src/JDBCTools/JDBCTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/src/Model/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../成绩查询/src/Model/StudentsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../标准化考试/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../标准化考试/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../标准化考试/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../标准化考试/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../标准化考试/out/production/标准化考试/Quiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../标准化考试/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../标准化考试/src/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../标准化考试/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../汉字/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../汉字/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../汉字/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../汉字/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../汉字/out/production/汉字/ThreadFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../汉字/out/production/汉字/ThreadWordMainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../汉字/out/production/汉字/WordThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../汉字/src/ThreadFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../汉字/src/ThreadWordMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../汉字/src/WordThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../泛型类/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../泛型类/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../泛型类/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../泛型类/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../泛型类/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../线程联合创建线程/out/production/线程联合创建线程/Homework.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../线程联合创建线程/out/production/线程联合创建线程/ThreadJoin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../线程联合创建线程/src/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../线程联合创建线程/src/ThreadJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../输入输出流/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../输入输出流/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../输入输出流/out/production/输入输出流/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../输入输出流/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../通讯录文本/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../通讯录文本/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../通讯录文本/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../通讯录文本/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../通讯录文本/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../通讯录文本/out/production/通讯录文本/Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../通讯录文本/out/production/通讯录文本/Window.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../通讯录文本/out/production/通讯录文本/WindowMenu$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../通讯录文本/out/production/通讯录文本/WindowMenu$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../通讯录文本/out/production/通讯录文本/WindowMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../通讯录文本/src/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../通讯录文本/src/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../通讯录文本/src/WindowMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../通讯录文本/通讯录文本.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1t4RVfUKSiTIUrnMwO5gHpUbZZd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../汉字" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework" />
+      <module name="判断序列号" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Homework" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fdbf67b-1907-4c9e-8ca4-410fe7cf5d3e" name="Default Changelist" comment="" />
+      <created>1622026401571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622026401571</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Java基础">
+      <created>1630223601617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630223601617</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Java基础">
+      <created>1630223676003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630223676003</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java基础" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java基础" />
+  </component>
+</project>
