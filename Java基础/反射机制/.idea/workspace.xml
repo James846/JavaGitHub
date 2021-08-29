@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddaf1e64-cd91-47df-921a-5a187575d12e" name="Changes" comment="反射">
-      <change beforePath="$PROJECT_DIR$/../Lambda表达式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lambda表达式/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../判断序列号/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../判断序列号/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../判断序列号/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../判断序列号/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../判断序列号/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../判断序列号/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../判断序列号/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../判断序列号/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../判断序列号/.idea/判断序列号.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../判断序列号/.idea/判断序列号.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../输入输出流/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../输入输出流/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../输入输出流/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../输入输出流/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../输入输出流/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../输入输出流/score.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../输入输出流/src/Fenxi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../输入输出流/输入输出流.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../成绩查询/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../成绩查询/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../成绩查询/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../成绩查询/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../成绩查询/src/Model/StudentsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../成绩查询/src/Model/StudentsView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
