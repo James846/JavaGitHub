@@ -4,8 +4,15 @@ import java.util.Scanner;
 
 public class AddBlobView {
     public static void main(String[] args)throws Exception{
+        Scanner scanner=new Scanner(System.in);
         String SQL="insert into frame values(?,?,?)";
-        FileInputStream in=new FileInputStream(new File("Exacubilar.jpg"));
-        AddBlob.addblob(SQL,1,"Excalibur",in);
+        System.out.println("idFrame: ");
+        String i= scanner.next();
+        System.out.println("frameName: ");
+        String name=scanner.next();
+        System.out.println("Picture: ");
+        String picture=scanner.next();
+        FileInputStream in=new FileInputStream(new File(picture));
+        AddBlob.addblob(SQL,i,name,in);
     }
 }
