@@ -1,6 +1,7 @@
 import java.io.*;
+import java.util.*;
 public class AnalysisResult {
-    public static void main(String[] args){
+    public static void main(String args[]){
         File fRead=new File("score.txt");
         File fWrite= new File("scoreAnalysis.txt");
         try{
@@ -8,7 +9,7 @@ public class AnalysisResult {
             BufferedWriter bufferWrite=new BufferedWriter(out);
             Reader in=new FileReader(fRead);
             BufferedReader bufferRead=new BufferedReader(in);
-            String str;
+            String str=null;
             while((str=bufferRead.readLine())!=null){
                 double totalScore=Fenxi.getTotalScore(str);
                 str = str+"总分："+totalScore;
@@ -20,7 +21,7 @@ public class AnalysisResult {
             bufferWrite.close();
         }
         catch (IOException e) {
-            e.printStackTrace();
+            System.out.println(e.toString());
         }
         System.out.println("姓名：吴天雄 学号：3200608046");
     }
