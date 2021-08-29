@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61678f3f-0c9e-4c6d-b8fe-5911329c952c" name="Changes" comment="上传" />
+    <list default="true" id="61678f3f-0c9e-4c6d-b8fe-5911329c952c" name="Changes" comment="上传">
+      <change afterPath="$PROJECT_DIR$/../添加Blob类型文件/.idea/libraries/mysql_connector_java_8_0_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../添加Blob类型文件/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登录系统/.idea/libraries/SQLlibs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登录系统/.idea/libraries/mysql_connector_java_8_0_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登录系统/.idea/libraries/mysql_connector_java_8_0_261.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登录系统/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登录系统/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登录系统/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登录系统/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登录系统/登录系统.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登录系统/登录系统1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../添加Blob类型文件/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../添加Blob类型文件/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../添加Blob类型文件/添加Blob类型文件.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../添加Blob类型文件/添加Blob类型文件.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../登录系统/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../登录系统/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +59,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -57,8 +76,8 @@
   <component name="RunManager" selected="Application.QueryForDifferentTable">
     <configuration name="QueryForDifferentTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="16" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="QueryTest.QueryForDifferentTable" />
+      <module name="JDBCUtils" />
       <extension name="coverage" sample_coverage="false" track_test_folders="true">
         <pattern>
           <option name="PATTERN" value="QueryTest.*" />
@@ -267,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629953113276</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="上传">
+      <created>1630216947179</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1630216947179</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

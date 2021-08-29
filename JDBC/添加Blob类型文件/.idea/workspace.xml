@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbad0ccc-55a8-415d-9c03-598de944edcb" name="Changes" comment="优化blob" />
+    <list default="true" id="dbad0ccc-55a8-415d-9c03-598de944edcb" name="Changes" comment="优化blob">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登录系统/.idea/libraries/mysql_connector_java_8_0_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登录系统/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登录系统/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登录系统/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登录系统/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登录系统/登录系统.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBCUtils/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCUtils/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/添加Blob类型文件.iml" beforeDir="false" afterPath="$PROJECT_DIR$/添加Blob类型文件.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../登录系统/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../登录系统/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,24 +44,37 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\JavaGitHub\JDBC\添加Blob类型文件\SQLlibs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QueryBlobView">
-    <configuration name="AddBlobView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.QueryBlobView (1)">
+    <configuration name="AddBlobView" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="16" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="AddBlobView" />
+      <module name="添加Blob类型文件" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueryBlobView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="QueryBlobView (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="QueryBlobView" />
+      <module name="添加Blob类型文件" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryBlobView" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="16" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="src.QueryBlobView" />
@@ -67,11 +93,11 @@
     <list>
       <item itemvalue="Application.AddBlobView" />
       <item itemvalue="Application.QueryBlobView" />
+      <item itemvalue="Application.QueryBlobView (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QueryBlobView" />
-        <item itemvalue="Application.AddBlobView" />
+        <item itemvalue="Application.QueryBlobView (1)" />
       </list>
     </recent_temporary>
   </component>

@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3faa106-54e7-4627-ac16-87e4511ca6a3" name="Changes" comment="小优化">
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/src/AddStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/src/AddStudents.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/src/DeleteStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/src/DeleteStudents.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/src/StudentsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/src/StudentsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../添加Blob类型文件/.idea/libraries/mysql_connector_java_8_0_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../添加Blob类型文件/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/SQLlibs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_261.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/登录系统.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/登录系统1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBCUtils/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCUtils/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../添加Blob类型文件/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../添加Blob类型文件/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../添加Blob类型文件/添加Blob类型文件.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../添加Blob类型文件/添加Blob类型文件.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +50,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -47,18 +63,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="GUI" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="GUI" />
-      <module name="登录系统" />
+      <module name="登录系统1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.GUI" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
