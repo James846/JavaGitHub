@@ -2,21 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3faa106-54e7-4627-ac16-87e4511ca6a3" name="Changes" comment="小优化">
-      <change afterPath="$PROJECT_DIR$/../添加Blob类型文件/.idea/libraries/mysql_connector_java_8_0_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../添加Blob类型文件/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/SQLlibs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_261.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/登录系统.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/登录系统1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/HTML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCUtils/JDBCUtils.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据库测试/数据库测试.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/SQLlibs__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_262.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/成绩查询.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/成绩查询1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JDBCUtils/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCUtils/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../添加Blob类型文件/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../添加Blob类型文件/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../添加Blob类型文件/添加Blob类型文件.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../添加Blob类型文件/添加Blob类型文件.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据库测试/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../数据库测试/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/登录系统.iml" beforeDir="false" afterPath="$PROJECT_DIR$/登录系统.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/登录系统1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/登录系统1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/src/StudentsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/src/Model/StudentsView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +53,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../添加Blob类型文件" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -64,8 +70,14 @@
   </component>
   <component name="RunManager">
     <configuration name="GUI" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="16" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="GUI" />
+      <module name="登录系统" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="GUI" />
       <module name="登录系统1" />
       <method v="2">
@@ -147,6 +159,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
