@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61678f3f-0c9e-4c6d-b8fe-5911329c952c" name="Changes" comment="上传">
-      <change beforePath="$PROJECT_DIR$/../广告牌/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../广告牌/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IP.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/IP.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../广告牌" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -59,7 +60,20 @@
       <recent name="D:\JavaGitHub\JDBCUtils\src\JDBCTools" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QueryForDifferentTable">
+  <component name="RunManager" selected="Application.InsertTest">
+    <configuration name="InsertTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Insert.InsertTest" />
+      <module name="JDBCUtils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Insert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QueryForDifferentTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="16" />
       <option name="MAIN_CLASS_NAME" value="QueryTest.QueryForDifferentTable" />
@@ -87,7 +101,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <configuration name="All in JDBCUtils" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="JDBCUtils" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="" />
@@ -107,12 +121,14 @@
       <item itemvalue="Application.QueryForSameTable" />
       <item itemvalue="Application.QueryForDifferentTable" />
       <item itemvalue="JAR Application.Unnamed" />
-      <item itemvalue="JUnit.Unnamed" />
+      <item itemvalue="JUnit.All in JDBCUtils" />
+      <item itemvalue="Application.InsertTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QueryForDifferentTable" />
+        <item itemvalue="Application.InsertTest" />
         <item itemvalue="Application.QueryForSameTable" />
+        <item itemvalue="Application.QueryForDifferentTable" />
       </list>
     </recent_temporary>
   </component>
