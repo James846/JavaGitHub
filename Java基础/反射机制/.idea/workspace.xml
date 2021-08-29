@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddaf1e64-cd91-47df-921a-5a187575d12e" name="Changes" comment="反射">
-      <change beforePath="$PROJECT_DIR$/../成绩查询/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../成绩查询/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../成绩查询/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../成绩查询/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../成绩查询/src/Model/StudentsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../成绩查询/src/Model/StudentsView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../成绩查询" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
