@@ -2,78 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbad0ccc-55a8-415d-9c03-598de944edcb" name="Changes" comment="优化blob">
-      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/HTML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtils/JDBCUtils.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../数据库测试/数据库测试.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../登录系统/.idea/libraries/SQLlibs__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../登录系统/.idea/libraries/mysql_connector_java_8_0_262.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBCUtils/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCUtils/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../数据库测试/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../数据库测试/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登录系统/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../登录系统/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登录系统/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../登录系统/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登录系统/登录系统.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../登录系统/登录系统.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登录系统/登录系统1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../登录系统/登录系统1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/Lambda表达式/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/Lambda表达式/src/LambdaTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/判断序列号/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/判断序列号/src/Homework.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/判断序列号/src/Police.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/判断序列号/src/Win.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/反射机制/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/反射机制/src/Reflection/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/反射机制/src/Reflection/TargetObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/SQLlibs/mysql-connector-java-8.0.26.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/out/production/成绩查询/Controller/AddStudents.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/out/production/成绩查询/Controller/DeleteStudents.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/out/production/成绩查询/Controller/QueryStudents.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/out/production/成绩查询/IP.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/out/production/成绩查询/JDBCTools/JDBCTools.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/out/production/成绩查询/Model/Students.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/out/production/成绩查询/StudentsView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/src/Controller/AddStudents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/src/Controller/DeleteStudents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/src/Controller/QueryStudents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/src/IP.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/src/JDBCTools/JDBCTools.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/src/Model/Students.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/src/StudentsView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/标准化考试/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/标准化考试/result.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/标准化考试/src/Quiz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/标准化考试/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/汉字游戏/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/汉字游戏/src/ThreadFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/汉字游戏/src/ThreadWordMainClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/汉字游戏/src/WordThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/泛型类/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/泛型类/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/泛型类/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/泛型类/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/泛型类/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/泛型类/泛型类.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/线程联合创建线程/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/线程联合创建线程/src/Homework.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/线程联合创建线程/src/ThreadJoin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/输入输出流/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/输入输出流/out/production/输入输出流/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/输入输出流/score.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/输入输出流/scoreAnalysis.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/输入输出流/src/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/输入输出流/src/AnalysisResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/输入输出流/src/Fenxi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/输入输出流/src/输入输出流.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/通讯录文本/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/通讯录文本/src/Result.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/通讯录文本/src/Window.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/通讯录文本/src/WindowMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/通讯录文本/通讯录文本.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java基础/Lambda表达式/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java基础/Lambda表达式/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java基础/Lambda表达式/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java基础/Lambda表达式/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java基础/Lambda表达式/Lambda表达式.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java基础/Lambda表达式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java基础/Lambda表达式/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Lambda表达式" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java基础/Lambda表达式" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
