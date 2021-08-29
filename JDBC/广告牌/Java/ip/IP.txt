@@ -1,1 +1,1 @@
-jdbc:mysql://localhost:3306/advertisement&user=root&password=jimmy1016&useSSL=true&characterEncoding=utf-8
+jdbc:mysql://localhost:3306/advertisement&user=root&password=********&useSSL=true&characterEncoding=utf-8
