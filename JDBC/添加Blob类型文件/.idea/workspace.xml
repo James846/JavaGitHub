@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbad0ccc-55a8-415d-9c03-598de944edcb" name="Changes" comment="优化blob">
-      <change afterPath="$PROJECT_DIR$/../../Java基础/Lambda表达式/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java基础/Lambda表达式/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java基础/Lambda表达式/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java基础/Lambda表达式/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java基础/Lambda表达式/Lambda表达式.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/Lambda表达式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java基础/Lambda表达式/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java基础/输入输出流/src/AnalysisResult.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
