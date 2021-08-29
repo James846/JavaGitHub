@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddaf1e64-cd91-47df-921a-5a187575d12e" name="Changes" comment="反射">
-      <change beforePath="$PROJECT_DIR$/../成绩查询/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../成绩查询/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ddaf1e64-cd91-47df-921a-5a187575d12e" name="Changes" comment="反射" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630024874220</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="反射">
+      <created>1630224191670</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630224191670</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
