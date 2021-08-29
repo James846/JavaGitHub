@@ -1,3 +1,5 @@
+package Model;
+
 import Controller.AddStudents;
 import Controller.DeleteStudents;
 import Controller.QueryStudents;

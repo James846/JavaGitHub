@@ -1,98 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9af0b223-ea10-4dcc-b739-cde8b8c62c56" name="Changes" comment="Java基础">
-      <change afterPath="$PROJECT_DIR$/../判断序列号/out/production/判断序列号/Homework.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../判断序列号/out/production/判断序列号/Police.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../判断序列号/out/production/判断序列号/Win$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../判断序列号/out/production/判断序列号/Win.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../判断序列号/src/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../判断序列号/src/Police.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../判断序列号/src/Win.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../反射机制/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../反射机制/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../反射机制/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../反射机制/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../反射机制/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../反射机制/out/production/反射机制/Reflection/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../反射机制/out/production/反射机制/Reflection/TargetObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../反射机制/src/Reflection/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../反射机制/src/Reflection/TargetObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/SQLlibs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_261.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQLlibs/mysql-connector-java-8.0.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/成绩查询/Controller/AddStudents.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/成绩查询/Controller/DeleteStudents.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/成绩查询/Controller/QueryStudents.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/成绩查询/IP.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/成绩查询/JDBCTools/JDBCTools.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/成绩查询/Model/Students.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/成绩查询/StudentsView.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/成绩查询1/Controller/AddStudents.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/成绩查询1/Controller/DeleteStudents.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/成绩查询1/Controller/QueryStudents.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/成绩查询1/JDBCTools/JDBCTools.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/成绩查询1/Model/Students.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/成绩查询1/StudentsView.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/AddStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/DeleteStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/QueryStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IP.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBCTools/JDBCTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/StudentsView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../标准化考试/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../标准化考试/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../标准化考试/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../标准化考试/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../标准化考试/out/production/标准化考试/Quiz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../标准化考试/result.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../标准化考试/src/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../标准化考试/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../汉字/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../汉字/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../汉字/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../汉字/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../汉字/out/production/汉字/ThreadFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../汉字/out/production/汉字/ThreadWordMainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../汉字/out/production/汉字/WordThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../汉字/src/ThreadFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../汉字/src/ThreadWordMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../汉字/src/WordThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../泛型类/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../泛型类/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../泛型类/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../泛型类/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../泛型类/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../线程联合创建线程/out/production/线程联合创建线程/Homework.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../线程联合创建线程/out/production/线程联合创建线程/ThreadJoin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../线程联合创建线程/src/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../线程联合创建线程/src/ThreadJoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../输入输出流/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../输入输出流/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../输入输出流/out/production/输入输出流/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../输入输出流/src/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../通讯录文本/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../通讯录文本/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../通讯录文本/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../通讯录文本/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../通讯录文本/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../通讯录文本/out/production/通讯录文本/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../通讯录文本/out/production/通讯录文本/Window.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../通讯录文本/out/production/通讯录文本/WindowMenu$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../通讯录文本/out/production/通讯录文本/WindowMenu$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../通讯录文本/out/production/通讯录文本/WindowMenu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../通讯录文本/src/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../通讯录文本/src/Window.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../通讯录文本/src/WindowMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../通讯录文本/通讯录文本.txt" afterDir="false" />
-    </list>
+    <list default="true" id="9af0b223-ea10-4dcc-b739-cde8b8c62c56" name="Changes" comment="Java基础" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,9 +26,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../标准化考试" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -164,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630035476955</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Java基础">
+      <created>1630223886009</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630223886009</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +97,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="极为简陋的增删改查" />
     <MESSAGE value="Java基础" />
     <option name="LAST_COMMIT_MESSAGE" value="Java基础" />
