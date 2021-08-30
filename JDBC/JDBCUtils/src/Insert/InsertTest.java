@@ -16,6 +16,11 @@ public class InsertTest {
         PreparedStatement ps= conn.prepareStatement(sql);
         for(int i=0;i<=200;i++){
             ps.setObject(1,"name "+i);
+            ps.addBatch();
+            if(i%100==0){
+                ps.executeBatch();
+                ps.clearBatch();
+            }
             ps.execute();
         }
         Long end=System.currentTimeMillis();
