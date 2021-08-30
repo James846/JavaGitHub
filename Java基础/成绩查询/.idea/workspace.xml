@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9af0b223-ea10-4dcc-b739-cde8b8c62c56" name="Changes" comment="Java基础">
-      <change afterPath="$PROJECT_DIR$/src/View/QueryStudentsView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/View/StudentsDelView.java" afterDir="false" />
+    <list default="true" id="9af0b223-ea10-4dcc-b739-cde8b8c62c56" name="Changes" comment="增删查">
       <change beforePath="$PROJECT_DIR$/../../JDBC/JDBCUtils/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JDBC/JDBCUtils/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/StudentsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/AddStudentsView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JDBC/JDBCUtils/src/IP.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../JDBC/JDBCUtils/src/IP.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630224125323</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="增删查">
+      <created>1630294889030</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1630294889030</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +144,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="极为简陋的增删改查" />
     <MESSAGE value="Java基础" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java基础" />
+    <MESSAGE value="增删查" />
+    <option name="LAST_COMMIT_MESSAGE" value="增删查" />
   </component>
 </project>
