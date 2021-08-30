@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9af0b223-ea10-4dcc-b739-cde8b8c62c56" name="Changes" comment="Java基础" />
+    <list default="true" id="9af0b223-ea10-4dcc-b739-cde8b8c62c56" name="Changes" comment="Java基础">
+      <change afterPath="$PROJECT_DIR$/src/View/QueryStudentsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/StudentsDelView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JDBC/JDBCUtils/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JDBC/JDBCUtils/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/StudentsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/AddStudentsView.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +48,20 @@
       <recent name="D:\JavaGitHub\Java基础\成绩查询\src\Model" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.QueryStudentsView">
+    <configuration name="QueryStudentsView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="View.QueryStudentsView" />
+      <module name="成绩查询" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StudentsView" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StudentsView" />
       <module name="成绩查询1" />
@@ -51,6 +69,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QueryStudentsView" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

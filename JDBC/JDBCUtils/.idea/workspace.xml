@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61678f3f-0c9e-4c6d-b8fe-5911329c952c" name="Changes" comment="上传">
-      <change beforePath="$PROJECT_DIR$/out/production/JDBCUtils/IP.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JDBCUtils/IP.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/src/View/QueryStudentsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/src/View/StudentsDelView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/src/Model/StudentsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/src/View/AddStudentsView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +47,7 @@
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java基础/成绩查询" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -119,9 +122,9 @@
     <list>
       <item itemvalue="Application.QueryForSameTable" />
       <item itemvalue="Application.QueryForDifferentTable" />
+      <item itemvalue="Application.InsertTest" />
       <item itemvalue="JAR Application.Unnamed" />
       <item itemvalue="JUnit.All in JDBCUtils" />
-      <item itemvalue="Application.InsertTest" />
     </list>
     <recent_temporary>
       <list>
@@ -308,7 +311,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630228902904</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="上传">
+      <created>1630229194482</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1630229194482</updated>
+    </task>
+    <task id="LOCAL-00026" summary="上传">
+      <created>1630229277917</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1630229277917</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
