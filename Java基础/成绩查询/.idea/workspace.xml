@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9af0b223-ea10-4dcc-b739-cde8b8c62c56" name="Changes" comment="增删查">
-      <change beforePath="$PROJECT_DIR$/../../JDBC/JDBCUtils/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JDBC/JDBCUtils/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDBC/登录系统/.idea/libraries/SQLlibs__3_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JDBC/添加Blob类型文件/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JDBC/添加Blob类型文件/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JDBC/登录系统/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JDBC/登录系统/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbad0ccc-55a8-415d-9c03-598de944edcb" name="Changes" comment="优化blob" />
+    <list default="true" id="dbad0ccc-55a8-415d-9c03-598de944edcb" name="Changes" comment="优化blob">
+      <change afterPath="$PROJECT_DIR$/../登录系统/.idea/libraries/SQLlibs__3_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../登录系统/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../登录系统/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,8 +83,8 @@
     </configuration>
     <list>
       <item itemvalue="Application.AddBlobView" />
-      <item itemvalue="Application.QueryBlobView" />
       <item itemvalue="Application.QueryBlobView (1)" />
+      <item itemvalue="Application.QueryBlobView" />
     </list>
     <recent_temporary>
       <list>
