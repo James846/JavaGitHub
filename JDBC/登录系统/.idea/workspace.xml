@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3faa106-54e7-4627-ac16-87e4511ca6a3" name="Changes" comment="小优化">
-      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/HTML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HTML/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtils/JDBCUtils.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../数据库测试/数据库测试.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/SQLlibs__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_262.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/成绩查询.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/成绩查询1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBCUtils/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCUtils/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../数据库测试/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../数据库测试/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/登录系统.iml" beforeDir="false" afterPath="$PROJECT_DIR$/登录系统.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/登录系统1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/登录系统1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/src/StudentsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/src/Model/StudentsView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../添加Blob类型文件/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../添加Blob类型文件/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../添加Blob类型文件" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />

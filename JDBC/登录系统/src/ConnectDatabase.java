@@ -11,7 +11,7 @@ public class ConnectDatabase {
             ex.printStackTrace();
         }
         try{
-            con= DriverManager.getConnection("jdbc:mysql://localhost:3306/advertisement","root","********");
+            con= DriverManager.getConnection("jdbc:mysql://localhost:3306/advertisement","newuser","");
         }
         catch(Exception e){
             e.printStackTrace();
