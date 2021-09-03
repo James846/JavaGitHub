@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Druidlibs (2)">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Druidlibs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/Druidlibs" recursive="false" />
+  </library>
+</component>
