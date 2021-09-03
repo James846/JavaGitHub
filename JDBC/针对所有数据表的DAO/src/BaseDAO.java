@@ -7,14 +7,14 @@ import java.util.List;
 
 public abstract class BaseDAO {
     //1.通用增删改查操作
-    public int update(Connection conn,String sql,Object...args) {
+    public void update(Connection conn, String sql, Object...args) {
         PreparedStatement ps=null;
         try{
             ps=conn.prepareStatement(sql);
         for(int i=0;i< args.length;i++){
             ps.setObject(i+1,args[i]);
         }
-        return ps.executeUpdate();
+            ps.executeUpdate();
         }
         catch (Exception e){
             e.printStackTrace();
@@ -22,7 +22,6 @@ public abstract class BaseDAO {
         finally{
             JDBCTools.CloseConnection(null,ps);
         }
-        return 0;
     }
     //2.查询数据表中的数据
     public static <T> List<T> getForList(Connection conn,Class<T> clazz, String SQL, Object... args){

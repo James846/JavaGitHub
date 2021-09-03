@@ -9,13 +9,13 @@ public class GoodsDAOimpl extends BaseDAO implements GoodsDAO {
     }
 
     @Override
-    public void delete(Connection conn, int id) {
+    public void delete(Connection conn, String id) {
         String sql="delete from goods where id=?";
         update(conn,sql,id);
     }
 
     @Override
-    public void update(Connection conn, int id, Goods goods) {
+    public void update(Connection conn, String id, Goods goods) {
         String sql="update goods set name=? where id=?";
         update(conn,sql,goods.getName(),goods.getID());
     }
