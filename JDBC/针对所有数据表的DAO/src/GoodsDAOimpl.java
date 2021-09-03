@@ -22,9 +22,8 @@ public class GoodsDAOimpl extends BaseDAO implements GoodsDAO {
 
     @Override
     public List<Goods> getAll(Connection conn) {
-        String sql="select *from goods where id=?";
-        List<Goods> list=getForList(conn,Goods.class,sql);
-        return list;
+        String sql="select *from goods";
+        return getForList(conn,Goods.class,sql);
     }
 
     @Override

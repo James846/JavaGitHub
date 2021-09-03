@@ -1,29 +1,34 @@
 public class Goods {
-    String ID,Name;
+    String id,name;
 
     public Goods(){
         super();
     }
 
     public Goods(String ID, String name) {
-        this.ID = ID;
-        Name = name;
+        super();
+        this.id = ID;
+        name = name;
     }
 
     public String getID() {
-        return ID;
+        return id;
     }
 
     public void setID(String ID) {
-        this.ID = ID;
+        this.id = ID;
     }
 
     public String getName() {
-        return Name;
+        return name;
     }
 
     public void setName(String name) {
-        Name = name;
+        name = name;
+    }
+
+    public String toString(){
+        return "id: "+id+" name: "+name;
     }
 
 }

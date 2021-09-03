@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61678f3f-0c9e-4c6d-b8fe-5911329c952c" name="Changes" comment="上传">
-      <change afterPath="$PROJECT_DIR$/../登录系统/.idea/libraries/SQLlibs__3_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../针对所有数据表的DAO/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../针对所有数据表的DAO/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../针对所有数据表的DAO/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../针对所有数据表的DAO/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../针对所有数据表的DAO/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../针对所有数据表的DAO/src/BaseDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../针对所有数据表的DAO/针对所有数据表的DAO.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../添加Blob类型文件/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../添加Blob类型文件/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登录系统/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../登录系统/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java基础/成绩查询/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java基础/成绩查询/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../针对所有数据表的DAO/src/BaseDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../针对所有数据表的DAO/src/BaseDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../针对所有数据表的DAO/src/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../针对所有数据表的DAO/src/Goods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../针对所有数据表的DAO/src/GoodsDAOimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../针对所有数据表的DAO/src/GoodsDAOimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../针对所有数据表的DAO/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../针对所有数据表的DAO/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +48,7 @@
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java基础/成绩查询" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />

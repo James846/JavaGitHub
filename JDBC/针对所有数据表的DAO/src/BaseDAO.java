@@ -31,9 +31,6 @@ public abstract class BaseDAO {
         try {
             ps = conn.prepareStatement(SQL);
             //填充通配符
-            for (int i = 0; i < args.length; i++) {
-                ps.setObject(i + 1, args[i]);
-            }
             //执行SQL语句
             rs = ps.executeQuery();
             //获取结果集的元数据
@@ -47,10 +44,10 @@ public abstract class BaseDAO {
                     //获取每个列的值：通过结果集
                     Object columnValue = rs.getObject(i + 1);
                     //获取每个列的列名字：通过结果集的元数据
-                    String name = rsmd.getColumnLabel(i + 1);
-                    Field field = clazz.getDeclaredField(name);
+                    String name = rsmd.getColumnLabel(i+1);
+                    Field field= clazz.getDeclaredField(name);
                     field.setAccessible(true);
-                    field.set(t, columnValue);
+                    field.set(t,columnValue);
                 }
                 list.add(t);
             }
