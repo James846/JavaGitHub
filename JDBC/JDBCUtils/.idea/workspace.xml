@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61678f3f-0c9e-4c6d-b8fe-5911329c952c" name="Changes" comment="上传">
-      <change afterPath="$PROJECT_DIR$/../Druid 数据库连接池/.idea/libraries/Druidlibs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Druid 数据库连接池/.idea/libraries/Druidlibs__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Druid 数据库连接池/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Druid 数据库连接池/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Druid 数据库连接池/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Druid 数据库连接池/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Druid 数据库连接池/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Druid 数据库连接池/Druid 数据库连接池.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Druid 数据库连接池/Druidlibs/druid-1.2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Druid 数据库连接池/Druidlibs/mysql-connector-java-8.0.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Druid 数据库连接池/out/production/Druid 数据库连接池/IP.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Druid 数据库连接池/out/production/Druid 数据库连接池/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Druid 数据库连接池/src/IP.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Druid 数据库连接池/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../针对所有数据表的DAO/src/IP.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../针对所有数据表的DAO/src/IP.txt" afterDir="false" />
-    </list>
+    <list default="true" id="61678f3f-0c9e-4c6d-b8fe-5911329c952c" name="Changes" comment="上传" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
