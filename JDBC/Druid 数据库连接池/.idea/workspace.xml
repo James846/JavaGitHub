@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36eaac01-4826-4be3-85f7-b8e98663a671" name="Changes" comment="数据库连接池">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Druidlibs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Druidlibs__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Druid 数据库连接池.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Druidlibs/druid-1.2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Druidlibs/mysql-connector-java-8.0.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Druid 数据库连接池/IP.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Druid 数据库连接池/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IP.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBCUtils/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCUtils/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../针对所有数据表的DAO/src/IP.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../针对所有数据表的DAO/src/IP.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JDBCUtils" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../大学/Java Projects/DogState" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -87,7 +72,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630662083810</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="数据库连接池">
+      <created>1630662111627</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630662111628</updated>
+    </task>
+    <task id="LOCAL-00003" summary="数据库连接池">
+      <created>1630662161762</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630662161762</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +99,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
