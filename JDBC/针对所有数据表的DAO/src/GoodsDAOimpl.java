@@ -16,8 +16,8 @@ public class GoodsDAOimpl extends BaseDAO implements GoodsDAO {
 
     @Override
     public void update(Connection conn, String id, Goods goods) {
-        String sql="update goods set name=? where id=?";
-        update(conn,sql,goods.getName(),goods.getID());
+        String sql="update goods set id=?,name=? where id=?";
+        update(conn,sql,goods.getID(),goods.getName(),id);
     }
 
     @Override

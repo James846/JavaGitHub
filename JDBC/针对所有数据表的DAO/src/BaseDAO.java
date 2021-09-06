@@ -61,7 +61,7 @@ public abstract class BaseDAO {
         }
         return null;
     }
-    //查询特殊需求 数据表中所有条数据总和
+    //3.查询特殊需求 数据表中所有条数据总和
     public <E> E getValue(Connection conn,String sql,Object...args) {
         PreparedStatement ps=null;
         ResultSet rs=null;

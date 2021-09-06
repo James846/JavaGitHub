@@ -25,22 +25,33 @@ public class Test {
         if(operate.equals("查看总数据记录")){
             new Test().TestAll();
         }
-        else{
-            System.out.println("输入非法字符");
-        }
     }
+    //满足事务要求示例（仅仅为示例 事务本身并无意义）
+    //1.插入数据
     public void TestInsert() throws Exception {
         Connection conn=JDBCTools.getConnection();
-        System.out.print("请输入插入用户的ID：");
-        Scanner scanner=new Scanner(System.in);
-        String ID=scanner.next();
-        System.out.print("请输入用户名：");
-        String name=scanner.next();
-        Goods goods=new Goods(ID,name);
-        goodsDAO.insert(conn,goods);
-        System.out.println("添加成功");
+        try{
+            conn.setAutoCommit(false);
+            System.out.print("请输入插入用户的ID：");
+            Scanner scanner=new Scanner(System.in);
+            String ID=scanner.next();
+            System.out.print("请输入用户名：");
+            String name=scanner.next();
+            Goods goods=new Goods(ID,name);
+            goodsDAO.insert(conn,goods);
+            System.out.println("添加成功");
+            conn.commit();
+        }
+        catch (Exception e){
+            e.printStackTrace();
+            conn.rollback();
+        }
+        finally{
+            conn.setAutoCommit(true);
+        }
         JDBCTools.CloseConnection(conn,null);
     }
+    //2.删除某条数据
     public void TestDelete()throws Exception{
         Scanner scanner=new Scanner(System.in);
         Connection conn=JDBCTools.getConnection();
@@ -50,18 +61,36 @@ public class Test {
         System.out.println("删除成功");
         JDBCTools.CloseConnection(conn,null);
     }
+    //3.更改某条数据 （运用事务）
     public void TestUpdate()throws Exception{
         Scanner scanner=new Scanner(System.in);
         Connection conn=JDBCTools.getConnection();
-        System.out.print("请输入需要更改的用户ID：");
-        String originID=scanner.next();
-        System.out.print("请输入更改后的用户ID：");
-        String updateID=scanner.next();
-        System.out.print("请输入更改后的用户名：");
-        String updateName=scanner.next();
-        Goods goods=new Goods(updateID,updateName);
-        goodsDAO.update(conn,originID,goods);
-        System.out.println("更改成功");
+        try{
+            conn.setAutoCommit(false);
+            System.out.print("请输入需要更改的用户ID：");
+            String originID=scanner.next();
+            System.out.print("请输入更改后的用户ID：");
+            String updateID=scanner.next();
+            System.out.print("请输入更改后的用户名：");
+            String updateName=scanner.next();
+            Goods goods=new Goods(updateID,updateName);
+            System.out.println("是否确认修改[y/n]?: ");
+            String result=scanner.next();
+            if(result.equals("y")){
+                goodsDAO.update(conn,originID,goods);
+                System.out.println("更改成功");
+                conn.commit();
+            }
+            if(result.equals("n")){
+                conn.rollback();
+            }
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
+        finally{
+            conn.setAutoCommit(true);
+        }
         JDBCTools.CloseConnection(conn,null);
     }
     public void TestQuery()throws Exception{

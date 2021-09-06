@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="36eaac01-4826-4be3-85f7-b8e98663a671" name="Changes" comment="数据库连接池">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../针对所有数据表的DAO/src/BaseDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../针对所有数据表的DAO/src/BaseDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../针对所有数据表的DAO/src/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../针对所有数据表的DAO/src/Goods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../针对所有数据表的DAO/src/GoodsDAOimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../针对所有数据表的DAO/src/GoodsDAOimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../针对所有数据表的DAO/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../针对所有数据表的DAO/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../大学/Java Projects/DogState" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../针对所有数据表的DAO" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -86,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630662161762</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="数据库连接池">
+      <created>1630891891343</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630891891343</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
