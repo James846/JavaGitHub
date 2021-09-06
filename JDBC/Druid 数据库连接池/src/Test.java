@@ -13,6 +13,7 @@ public class Test {
         InputStream is=ClassLoader.getSystemClassLoader().getResourceAsStream("IP.txt");
         Properties prop=new Properties();
         prop.load(is);
+        //先展示MySQL的连接
         String user=prop.getProperty("username");
         String password=prop.getProperty("password");
         String url=prop.getProperty("url");
@@ -20,6 +21,7 @@ public class Test {
         Class.forName(driverClass);
         Connection conn= DriverManager.getConnection(url,user,password);
         System.out.println(conn);
+        //对比Druid数据库连接池
         DataSource ds=DruidDataSourceFactory.createDataSource(prop);
         System.out.println(ds.getConnection());
     }
