@@ -1,6 +1,9 @@
 public class Goods {
     String id,name;
 
+    public Goods(){
+    }
+
     public Goods(String ID, String name) {
         this.id = ID;
         this.name = name;

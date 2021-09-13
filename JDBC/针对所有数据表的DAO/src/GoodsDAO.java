@@ -9,6 +9,6 @@ public interface GoodsDAO {
     //更改表数据
     void update(Connection conn,String id,Goods goods);
     //查询所有表数据
-    List<Goods> getAll(Connection conn);
+    List <Goods> getAll(Connection conn);
     Long getCount(Connection conn);
 }
